@@ -1,7 +1,7 @@
 # Job market analysis for HR Agencies
 ### [Link to the report made in Google Colab](https://colab.research.google.com/drive/1QvO5VGJOBApQqsS5OzthmHD2NF73U_KJ#scrollTo=oUTqbOdFT8sY)
 ### Task description:
-Identify the signs of vacancies that attract the most attention of candidates.
+This project presents data on vacancies from HR agencies that they worked with from January to December 2023. The aim of the project is to help the agency identify the key signs of a vacancy that affect its popularity in order to help the agency effectively plan work for 2024.
 ### Skills and tools
 - python
 - pandas
